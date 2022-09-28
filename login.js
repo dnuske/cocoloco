@@ -1,3 +1,1 @@
-function login() {
-  return true;
-}
+// this is a login func
