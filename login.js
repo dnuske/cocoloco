@@ -1,1 +1,3 @@
-// that file handles login
+function login() {
+  return true;
+}
